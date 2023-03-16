@@ -52,7 +52,7 @@ input.search {
 }
 
 .suggestions li {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #606c38;
     background: #fefae0;
     list-style: none;
@@ -64,6 +64,7 @@ input.search {
     display: flex;
     justify-content: space-between;
     text-transform: capitalize;
+    width: 400px;
 }
 
 .suggestions li:nth-child(even) {
